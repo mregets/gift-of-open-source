@@ -22,7 +22,7 @@ Make X quality contributions to a participating repository. Here's how to get in
 ## Rules
 
 * Pull requests can be made in any participating GitHub repository. Look for the `Gift-of-Open-Source` topic to determine if a project is participating. 
-* You can sign up anytime between Decemeber 1st and December 31st.
+* You can register and participate anytime between Decemeber 1st and December 31st to recieve credit.
 
 
 ## Details
