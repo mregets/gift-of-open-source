@@ -12,11 +12,11 @@ To get involved, contribute to any open source project hosted on GitHub.com, tha
 
 ## How to Contribute?
 
-Make X quality contributions to a participating repository. Here's how to get involved in 3 simple steps.
+Make 2 quality contributions to a participating repository. Here's how to get involved in 3 simple steps.
 
-1. Register 
+1. Register for the event - https://pantheon.io/gift-open-source
 1. Create a pull request in any participating repository. Make a contribution like improving existing implementations, fixing bugs, updating documentation, etc...
-1. Make X quality contributions. You can open a new issue mentioning the contribution you plan to make and open a pull request directly, and ask for approval from the repository maintainers.
+1. Make 2 quality contributions. You can open a new issue mentioning the contribution you plan to make and open a pull request directly, and ask for approval from the repository maintainers.
 
 
 ## Rules
