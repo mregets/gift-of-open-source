@@ -32,6 +32,8 @@ If a pull request is accepted, add the `gift-of-open-source-accepted` label to e
 **Q: How can I exclude my repository from the Gift of Open Source?**
 **A:** If your repository does not include either of the Gift of Open Source labels, pull requests from your repository will not be counted.
 
+Clik here to read all event FAQs - https://pantheon.io/gift-open-source-faq
+
 ## Resources
 ### GitHub
 * [Managing labels in your repository](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels)
